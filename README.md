@@ -2,3 +2,4 @@
 
 * Repository: GitHub
 * Build Trigger: GitHub webhook
+* Container Registry: ECR
